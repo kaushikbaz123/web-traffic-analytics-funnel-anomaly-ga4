@@ -1,2 +1,7 @@
 # web-traffic-analytics-funnel-anomaly-ga4
 GA4-style web traffic funnel analysis and anomaly detection using Python
+
+
+## Visuals
+![Engagement Funnel](images/funnel.png)
+![Traffic Anomaly](images/traffic_anomaly.png)
